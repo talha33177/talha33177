@@ -1,56 +1,102 @@
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Talha%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Dhaka%2C%20Bangladesh&descAlignY=58&descSize=18" width="100%"/>
+<!-- ───────────── HEADER ───────────── -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Talha%20Ahmed&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20.NET%20%C2%B7%20Full-Stack&descAlignY=62&descSize=18" width="100%"/>
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Talha+%F0%9F%91%8B;.NET+%26+C%23+Developer;Building+with+Blazor+%26+SQL+Server;Love+clean%2C+scalable+code" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=talha33177&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+scalable+web+platforms+with+.NET;Clean+architecture.+Reliable+systems.;C%23+%C2%B7+Blazor+%C2%B7+ASP.NET+Core+%C2%B7+SQL+Server" alt="Typing SVG" />
 
-## 👨‍💻 About Me
+<br/>
 
-- 📍 Based in Mirpur, Dhaka, Bangladesh
-- 💼 Software developer working with C#, .NET, Blazor and SQL Server
-- 🌱 Currently building full-stack web apps (storefronts, delivery platforms, portals)
-- 📫 Reach me: talha33177.net@gmail.com
+![Location](https://img.shields.io/badge/Dhaka,_Bangladesh-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack_.NET-0d1117?style=flat-square&logo=dotnet&logoColor=58a6ff)
+![Status](https://img.shields.io/badge/Open_to-Collaboration-0d1117?style=flat-square&logo=github&logoColor=3fb950)
+![Views](https://komarev.com/ghpvc/?username=talha33177&label=Profile+Views&color=1f6feb&style=flat-square)
 
-## 🛠️ Tech Stack
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,mssql,ts,js,react,html,css,git,github,vscode,visualstudio" />
-</p>
+<!-- ───────────── ABOUT ───────────── -->
+## About
 
-## 🚀 Featured Projects
+I'm a software engineer based in Dhaka who builds full-stack web applications on the .NET ecosystem. I care about clean architecture, maintainable code, and shipping products that solve real problems, from multi-tenant delivery platforms to e-commerce systems.
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [OneDrop](https://github.com/talha33177/OneDrop-Courier-Service-Project-) | Multi-tenant delivery-grouping platform: multiple shops, one delivery | C#, .NET 10, SQL Server |
-| [Grabity](https://github.com/talha33177/Grabity) | Gadget & mobile online store for Bangladesh: storefront + admin panel | ASP.NET Core 10, React, SQL Server |
-| [DUMPMIS](https://github.com/talha33177/DUMPMIS) | DU MPMIS Alumni Portal | JavaScript |
+```text
+const talha = {
+  role:      "Software Engineer",
+  stack:     ["C#", ".NET", "Blazor", "ASP.NET Core", "SQL Server", "React", "TypeScript"],
+  focus:     ["Clean architecture", "Scalable backends", "Great developer experience"],
+  location:  "Mirpur, Dhaka, Bangladesh",
+  reachMe:   "talha33177.net@gmail.com"
+};
+```
 
-## 📊 GitHub Stats
+<!-- ───────────── TECH STACK ───────────── -->
+## Tech Stack
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=talha33177&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha33177&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha33177&theme=tokyonight&hide_border=true" />
-</p>
+| | |
+|:--|:--|
+| **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=blazor,react,ts,js,html,css&theme=dark" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" /> |
 
-## 🐍 Contribution Snake
+</div>
+
+<!-- ───────────── PROJECTS ───────────── -->
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/talha33177/OneDrop-Courier-Service-Project-">OneDrop</a></h3>
+      <p>Multi-tenant delivery-grouping platform. Multiple shops, one delivery.</p>
+      <sub><code>C#</code> · <code>.NET 10</code> · <code>SQL Server</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/talha33177/Grabity">Grabity</a></h3>
+      <p>Gadget and mobile online store for Bangladesh with storefront and admin panel.</p>
+      <sub><code>ASP.NET Core 10</code> · <code>React</code> · <code>SQL Server</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/talha33177/DUMPMIS">DUMPMIS</a></h3>
+      <p>Alumni portal for DU MPMIS.</p>
+      <sub><code>JavaScript</code></sub>
+    </td>
+  </tr>
+</table>
+
+<!-- ───────────── STATS ───────────── -->
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=talha33177&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha33177&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talha33177&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=talha33177&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<!-- ───────────── SNAKE ───────────── -->
+<details>
+<summary><b>Contribution graph</b></summary>
+<br/>
 
 <img src="https://raw.githubusercontent.com/talha33177/talha33177/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-## 🤝 Connect With Me
+</details>
 
-<p align="center">
-  <a href="mailto:talha33177.net@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<!-- ───────────── CONTACT ───────────── -->
+## Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<div align="center">
+
+<a href="mailto:talha33177.net@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" /></a>
+<a href="https://github.com/talha33177"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
