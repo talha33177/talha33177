@@ -44,7 +44,7 @@
 <a href="mailto:talha33177.net@gmail.com"><img src="assets/btn-email.svg" alt="Email me: talha33177.net@gmail.com" width="32%"/></a>
 <a href="https://talha.bdcorex.com"><img src="assets/btn-portfolio.svg" alt="Portfolio: talha.bdcorex.com" width="32%"/></a>
 <!-- TODO: replace YOUR-USERNAME with your LinkedIn handle -->
-<a href="https://linkedin.com/in/YOUR-USERNAME"><img src="assets/btn-linkedin.svg" alt="Connect on LinkedIn" width="32%"/></a>
+<a href="https://www.linkedin.com/in/talha33177/"><img src="assets/btn-linkedin.svg" alt="Connect on LinkedIn" width="32%"/></a>
 
 </div>
 
